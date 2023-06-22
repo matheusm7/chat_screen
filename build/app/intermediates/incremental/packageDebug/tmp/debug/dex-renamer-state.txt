@@ -1,0 +1,4 @@
+#Wed Jun 21 19:46:29 BRT 2023
+base.0=C\:\\Users\\Matheus\\Desktop\\Chat-Messaging-App-Light-and-Dark-Theme-Starting-Project\\test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
